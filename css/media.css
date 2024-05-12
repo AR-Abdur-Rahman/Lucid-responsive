@@ -1,0 +1,90 @@
+@media (max-width: 575px) {
+    .image {
+        display: none;
+    }
+    .feature_contant {
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: none;
+        box-shadow: none
+    }
+    .navbar-nav {
+
+        text-align: center;
+    }
+    .nav-item {
+        margin: 10px 0;
+        display: inline-flex;
+        justify-content: center;
+    }
+    .icon_section {
+        margin-bottom: 26px;
+    }
+    .heading {
+        text-align: center !important;
+        margin-bottom: 25px;
+    }
+    .image_box {
+        width: 50%;
+        margin: auto;
+    }
+    .feature_section .heading span {
+        margin-top: -9px;
+        margin: auto;
+    }
+    .feature_section p {
+        margin-bottom: 30px;
+        color: #9f9d9d;
+        text-align: center;
+    }
+    .feature_section ul {
+        width: 30%;
+        margin: auto;
+    }
+    .ad_section{
+        text-align: center;
+    }
+    .price_table {
+        width: 80%;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .price {
+        padding: 30px;
+    }
+    .price_table p{
+        padding: 31px 10px;
+    }
+    .form {
+        width: 90%;
+    }
+    .contact_section {
+        padding-bottom: 432px;
+    }
+    .icon_section {
+        margin-bottom: 30px;
+    }
+    .Pricings_section p{
+        font-style: italic;
+        margin: 15px;
+    }
+    .client_ifo{
+        display: flex;
+        justify-content: center;
+    }
+    .client_bio{
+
+        margin: 14px;
+    }
+    .client_bio h5{
+        margin-top: -8px;
+    }
+    .ad_section h1{
+        margin-bottom: 23px;
+    }
+
+
+}
